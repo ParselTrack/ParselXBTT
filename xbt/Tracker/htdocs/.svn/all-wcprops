@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2020/trunk/xbt/Tracker/htdocs
+END
+xbt.css
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2020/trunk/xbt/Tracker/htdocs/xbt.css
+END
+xbt_files.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2020/trunk/xbt/Tracker/htdocs/xbt_files.php
+END
+xbt_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2020/trunk/xbt/Tracker/htdocs/xbt_config.php
+END
+xbt_torrent_pass_version.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2020/trunk/xbt/Tracker/htdocs/xbt_torrent_pass_version.php
+END
+xbt_common.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2020/trunk/xbt/Tracker/htdocs/xbt_common.php
+END

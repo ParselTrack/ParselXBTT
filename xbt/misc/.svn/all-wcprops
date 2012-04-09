@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2261/trunk/xbt/misc
+END
+xif_key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2245/trunk/xbt/misc/xif_key.cpp
+END
+alerts.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2020/trunk/xbt/misc/alerts.h
+END
+bt_tracker_account.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_tracker_account.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2128/trunk/xbt/misc/sha1.h
+END
+bt_tracker_url.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_tracker_url.cpp
+END
+config_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2020/trunk/xbt/misc/config_base.h
+END
+xcc_z.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2231/trunk/xbt/misc/xcc_z.cpp
+END
+bt_tracker_url.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_tracker_url.h
+END
+stream_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2223/trunk/xbt/misc/stream_int.h
+END
+stream_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2020/trunk/xbt/misc/stream_reader.cpp
+END
+bvalue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2231/trunk/xbt/misc/bvalue.cpp
+END
+xif_key_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2245/trunk/xbt/misc/xif_key_r.cpp
+END
+bt_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2186/trunk/xbt/misc/bt_misc.cpp
+END
+bt_torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_torrent.cpp
+END
+stream_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2128/trunk/xbt/misc/stream_reader.h
+END
+xif_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2245/trunk/xbt/misc/xif_value.cpp
+END
+bvalue.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2233/trunk/xbt/misc/bvalue.h
+END
+bt_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_strings.h
+END
+tf_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2094/trunk/xbt/misc/tf_misc.cpp
+END
+stream_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2020/trunk/xbt/misc/stream_writer.cpp
+END
+bt_torrent.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_torrent.h
+END
+socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2186/trunk/xbt/misc/socket.cpp
+END
+tf_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1843/trunk/xbt/misc/tf_misc.h
+END
+alerts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2157/trunk/xbt/misc/alerts.cpp
+END
+virtual_binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2244/trunk/xbt/misc/virtual_binary.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2202/trunk/xbt/misc/CMakeLists.txt
+END
+sha1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2186/trunk/xbt/misc/sha1.cpp
+END
+bt_tracker_account.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2020/trunk/xbt/misc/bt_tracker_account.cpp
+END
+stream_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2244/trunk/xbt/misc/stream_writer.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2177/trunk/xbt/misc/socket.h
+END

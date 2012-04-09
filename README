@@ -1,0 +1,5 @@
+### ParselXBTT
+
+This project is a fork of a the popular XBTT torrent tracker with some custom patching applied and the goal of rewriting it to support the ParselTrack API specification for Tracker <-> Site communications.
+This project is a stub repo to track patches submitted from several tracker sites using XBTT since the original project is no longer under active development.  No work towards the API integration is planned until the completion of ParselOcelot and ParselTrack/ParselTrack-Core.  If you are familiar with the XBTT code base and wish to contribute by helping with this modification, please review the specs for the ParselTrack API at https://github.com/ParselTrack/Specifications and contact the ParselTrack Project maintainers.
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2261/trunk/xbt/misc/xbt
+END
+virtual_binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2244/trunk/xbt/misc/xbt/virtual_binary.h
+END
+sql_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2207/trunk/xbt/misc/xbt/sql_result.h
+END
+xif_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2246/trunk/xbt/misc/xbt/xif_key.h
+END
+shared_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2243/trunk/xbt/misc/xbt/shared_data.h
+END
+xif_key_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2246/trunk/xbt/misc/xbt/xif_key_r.h
+END
+bt_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2161/trunk/xbt/misc/xbt/bt_misc.h
+END
+xif_value.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2246/trunk/xbt/misc/xbt/xif_value.h
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2242/trunk/xbt/misc/xbt/database.h
+END
+sql_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2185/trunk/xbt/misc/xbt/sql_query.h
+END
+data_ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2256/trunk/xbt/misc/xbt/data_ref.h
+END
+find_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2261/trunk/xbt/misc/xbt/find_ptr.h
+END
+xcc_z.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2233/trunk/xbt/misc/xbt/xcc_z.h
+END

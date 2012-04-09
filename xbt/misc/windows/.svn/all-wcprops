@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2020/trunk/xbt/misc/windows
+END
+ETSLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2020/trunk/xbt/misc/windows/ETSLayout.h
+END
+browse_for_directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2020/trunk/xbt/misc/windows/browse_for_directory.h
+END
+nt_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2020/trunk/xbt/misc/windows/nt_service.cpp
+END
+nt_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2020/trunk/xbt/misc/windows/nt_service.h
+END
+ETSLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2020/trunk/xbt/misc/windows/ETSLayout.cpp
+END
+browse_for_directory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2020/trunk/xbt/misc/windows/browse_for_directory.cpp
+END

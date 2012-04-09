@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2259/trunk/xbt/Tracker
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2231/trunk/xbt/Tracker/stdafx.h
+END
+connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2234/trunk/xbt/Tracker/connection.cpp
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2188/trunk/xbt/Tracker/stats.h
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2212/trunk/xbt/Tracker/make.sh
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2254/trunk/xbt/Tracker/server.cpp
+END
+XBT Tracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2209/trunk/xbt/Tracker/XBT%20Tracker.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2248/trunk/xbt/Tracker/config.h
+END
+epoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2255/trunk/xbt/Tracker/epoll.cpp
+END
+tcp_listen_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2142/trunk/xbt/Tracker/tcp_listen_socket.cpp
+END
+tracker_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2083/trunk/xbt/Tracker/tracker_input.h
+END
+XBT Tracker.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2231/trunk/xbt/Tracker/XBT%20Tracker.vcxproj
+END
+XBT Tracker.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2020/trunk/xbt/Tracker/XBT%20Tracker.sln
+END
+udp_listen_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2258/trunk/xbt/Tracker/udp_listen_socket.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2089/trunk/xbt/Tracker/client.h
+END
+transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2248/trunk/xbt/Tracker/transaction.cpp
+END
+xbt_tracker.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2251/trunk/xbt/Tracker/xbt_tracker.sql
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2025/trunk/xbt/Tracker/COPYING
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2020/trunk/xbt/Tracker/stdafx.cpp
+END
+XBT Tracker.rc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2020/trunk/xbt/Tracker/XBT%20Tracker.rc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2235/trunk/xbt/Tracker/CMakeLists.txt
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2159/trunk/xbt/Tracker/resource.h
+END
+xbt_tracker.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2020/trunk/xbt/Tracker/xbt_tracker.conf.default
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2258/trunk/xbt/Tracker/connection.h
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2248/trunk/xbt/Tracker/config.cpp
+END
+tracker_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2103/trunk/xbt/Tracker/tracker_input.cpp
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2259/trunk/xbt/Tracker/server.h
+END
+udp_listen_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2020/trunk/xbt/Tracker/udp_listen_socket.cpp
+END
+XBT Tracker.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2020/trunk/xbt/Tracker/XBT%20Tracker.nsi
+END
+epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2254/trunk/xbt/Tracker/epoll.h
+END
+tcp_listen_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2258/trunk/xbt/Tracker/tcp_listen_socket.h
+END
+transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2127/trunk/xbt/Tracker/transaction.h
+END
